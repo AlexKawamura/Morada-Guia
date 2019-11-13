@@ -18,7 +18,7 @@
           <li class="nav-item" routerLinkActive="active">
             <a class="nav-link" [routerLink]="['/messages']" routerLinkActive="router-link-active" >Mensagens</a>
           </li>
-          <li class="nav-item" routerLinkActive="active">
+          <li *ngIf="loggedIn()" class="nav-item" routerLinkActive="active">
             <a class="nav-link" [routerLink]="['/register-imovel']">Registrar imóvel</a>
           </li>
         </ul>

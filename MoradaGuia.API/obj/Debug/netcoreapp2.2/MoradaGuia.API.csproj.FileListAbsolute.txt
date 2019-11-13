@@ -54,3 +54,6 @@ C:\Users\julio\Documents\Morada-Guia\MoradaGuia.API\bin\Debug\netcoreapp2.2\apps
 C:\Users\julio\Documents\Morada-Guia\MoradaGuia.API\bin\Debug\netcoreapp2.2\appsettings.json
 C:\Users\julio\Documents\Morada-Guia\MoradaGuia.API\bin\Debug\netcoreapp2.2\Data\UserSeedData.json
 C:\Users\julio\Documents\Morada-Guia\MoradaGuia.API\bin\Debug\netcoreapp2.2\Properties\launchSettings.json
+C:\Users\alexa\MoradaGuia\Morada-Guia\MoradaGuia.API\obj\Debug\netcoreapp2.2\MoradaGuia.API.RazorAssemblyInfo.cache
+C:\Users\alexa\MoradaGuia\Morada-Guia\MoradaGuia.API\obj\Debug\netcoreapp2.2\MoradaGuia.API.RazorAssemblyInfo.cs
+C:\Users\alexa\MoradaGuia\Morada-Guia\MoradaGuia.API\obj\Debug\netcoreapp2.2\MoradaGuia.API.RazorTargetAssemblyInfo.cache
